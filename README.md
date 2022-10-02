@@ -43,4 +43,5 @@ Add your name ,Twitter handle and Linkedin Below - 💡
 - Zeus Ghost💡 -
 - Ejiroghene Laurel Dafe :woman_technologist::cloud: => Twitter: [@L4laurel](https://twitter.com/L4laurel) & Linkedin: [Ejiroghene Laurel Dafe](https://linkedin.com/in/ejiroghenelaureldafe)
 - Richie Moluno => Twitter: [@MolunoRichie](https://twitter.com/MolunoRichie) & Linkedln: [Moluno Richie](https://www.linkedin.com/in/richie-moluno-077892196/)
+- Samuel Amagbakhen => Twitter: [@Samuel_Orobosa](https://twitter.com/Samuel_Orobosa) & Linkedln: [Samuel Amagbakhen](https://www.linkedin.com/in/samuel-amagbakhen/)
  
