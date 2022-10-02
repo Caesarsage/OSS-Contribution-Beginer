@@ -3,13 +3,13 @@
 Make 4 PR and get a gift from hacktoberfest
 ## BIO DETAILS PROJECT 💻
 
-Now that you are here Use the link below to learn in details how to contribute to this project
-Fork the repository 
-Clone the repository
-Addd your details below
-Push and Make a PR
+Now that you are here Use the simple steps or link below to learn in details how to contribute to this project
+- Fork the repository 
+- Clone the repository
+- Add your details below
+- Push and Make a PR
 
-Remeber to Register first on hacktoberfest website.
+## Remeber to Register first on hacktoberfest website.
 
 Read more - [click me](https://caesarsage.hashnode.dev/practical-collaborative-strategy-for-teams-and-open-source-enthusiasts-with-git)! 🖱️
 
