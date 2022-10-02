@@ -1,9 +1,9 @@
 # NAME Biography website
 ## Practical Beginner Guide to open source and Team's Contribution 🔥
-BLOG POST - [click me](https://caesarsage.hashnode.dev/practical-collaborative-strategy-for-teams-and-open-source-enthusiasts-with-git)
+BLOG POST - [click me](https://www.freecodecamp.org/news/what-is-open-source-software/)
 
 
-Make 4 PR and get a gift from hacktoberfest 
+
 ## Remeber to Register first on hacktoberfest website.
 
 
@@ -16,7 +16,7 @@ Now that you are here Use the simple steps or link below to learn in details how
 - Push and Make a PR 
 
 
-Read more - [click me](https://caesarsage.hashnode.dev/practical-collaborative-strategy-for-teams-and-open-source-enthusiasts-with-git)! 🖱️
+Read more - [click me](https://www.freecodecamp.org/news/what-is-open-source-software/)! 🖱️
 
 
 ## Contributing to open-source projects know-how. 🚀
