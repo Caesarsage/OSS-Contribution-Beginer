@@ -37,4 +37,5 @@ Add your name ,Twitter handle and Linkedin Below - 💡
 - Destiny Erhabor 🚀💻 => Twitter: [@caesar_sage](https://twitter.com/caesar_sage) & Linkedin: [Destiny Erhabor](https://linkedin.com/in/destiny-erhabor) 👍 ⚔️
 - Zeus Ghost💡 -
 - Ejiroghene Laurel Dafe :woman_technologist::cloud: => Twitter: [@L4laurel](https://twitter.com/L4laurel) & Linkedin: [Ejiroghene Laurel Dafe](https://linkedin.com/in/ejiroghenelaureldafe)
+- Richie Moluno => Twitter: [@MolunoRichie](https://twitter.com/MolunoRichie) & Linkedln: [Moluno Richie](https://www.linkedin.com/in/richie-moluno-077892196/)
  
