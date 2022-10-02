@@ -3,8 +3,11 @@
 ## BIO DETAILS PROJECT 💻
 
 Now that you are here Use the link below to learn in details how to contribute to this project
+Fork the repository 
+Clone the repository 
+Addd your details below 
 
-How to - [click me](https://caesarsage.hashnode.dev/practical-collaborative-strategy-for-teams-and-open-source-enthusiasts-with-git)! 🖱️
+Read more - [click me](https://caesarsage.hashnode.dev/practical-collaborative-strategy-for-teams-and-open-source-enthusiasts-with-git)! 🖱️
 
 
 ## Contributing to open-source projects know-how. 🚀
