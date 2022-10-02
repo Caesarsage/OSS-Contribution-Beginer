@@ -1,15 +1,20 @@
-# Practical Beginner Guide to open source and Team's Contribution 🔥
+# NAME Biography website
+## Practical Beginner Guide to open source and Team's Contribution 🔥
+BLOG POST - [click me](https://caesarsage.hashnode.dev/practical-collaborative-strategy-for-teams-and-open-source-enthusiasts-with-git)
 
-Make 4 PR and get a gift from hacktoberfest
+
+Make 4 PR and get a gift from hacktoberfest 
+## Remeber to Register first on hacktoberfest website.
+
+
 ## BIO DETAILS PROJECT 💻
 
 Now that you are here Use the simple steps or link below to learn in details how to contribute to this project
 - Fork the repository 
 - Clone the repository
-- Add your details below
-- Push and Make a PR
+- Edit and Add your details to `CONTRIBUTORS` section in the README.md
+- Push and Make a PR 
 
-## Remeber to Register first on hacktoberfest website.
 
 Read more - [click me](https://caesarsage.hashnode.dev/practical-collaborative-strategy-for-teams-and-open-source-enthusiasts-with-git)! 🖱️
 
