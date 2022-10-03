@@ -1,11 +1,10 @@
-# NAME Biography website
-## Practical Beginner Guide to open source and Team's Contribution 🔥
-BLOG POST - [click me](https://www.freecodecamp.org/news/what-is-open-source-software/)
+# Getting Started with Open Source
 
+Many persons trying to break out into the open source space still find it overwhelming. This project aims to give an essential starter guide to making your first open source contribution.
+OSS stands for Open Source Software. This type of software has freely accessible source code under a license that lets you examine, modify, and use that code without restriction.
+[Here is an article](https://www.freecodecamp.org/news/what-is-open-source-software/) that gives an in-depth explanation of [Open Source Software](https://www.freecodecamp.org/news/what-is-open-source-software/).
 
-
-## Remeber to Register first on hacktoberfest website.
-
+> If you are contributing to this repo during Hacktoberfest, remember to register on Hacktoberfest to sync your github operations .
 
 ## BIO DETAILS PROJECT 💻
 
