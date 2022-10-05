@@ -37,4 +37,5 @@ Add your name ,Twitter handle and Linkedin Below - 💡
 - Richie Moluno => Twitter: [@MolunoRichie](https://twitter.com/MolunoRichie) & Linkedln: [Moluno Richie](https://www.linkedin.com/in/richie-moluno-077892196/)
 - Samuel Amagbakhen => Twitter: [@Samuel_Orobosa](https://twitter.com/Samuel_Orobosa) & Linkedln: [Samuel Amagbakhen](https://www.linkedin.com/in/samuel-amagbakhen/)
 - Funke Olasupo => Twitter: [@OlasupoFunke](https://twitter.com/OlasupoFunke) & LinkedIn : [Funke Olasupo](https://www.linkedin.com/in/olasupofunke/)
--Uzochukwu Precious => Linkedin: [Uzochukwu Precious](https://linkedin.com/in/uzochukwuprecious)
+- Uzochukwu Precious => Linkedin: [Uzochukwu Precious](https://linkedin.com/in/uzochukwuprecious)
+- Andrew Onaulogho :skull: :cloud: => Linkedin: [Andrew Onaulogho](https://www.linkedin.com/in/andrewonaulogho)
