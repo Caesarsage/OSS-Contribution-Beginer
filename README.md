@@ -10,12 +10,11 @@ Many persons trying to break out into the open source space still find it overwh
 
 This is a sample bio details project to help you understand how to contribute to open source using Github. Follow these basic steps to get started:
 
-- Fork the repository 
+- Fork the repository
 - Clone the repository to your local machine
 - Edit and Add your details to `CONTRIBUTORS` section in the `README.md` file
 - Commit and push the changes to the `main` branchof your forked repository.
-- Make a pull request from your forked repository to this repository. 
-
+- Make a pull request from your forked repository to this repository.
 
 [Read this article for more details](https://www.freecodecamp.org/news/what-is-open-source-software/) about these highlighted steps! 🖱️
 
@@ -40,3 +39,5 @@ Add your name ,Twitter handle and Linkedin Below - 💡
 - Uzochukwu Precious => Linkedin: [Uzochukwu Precious](https://linkedin.com/in/uzochukwuprecious)
 - Andrew Onaulogho :skull: :cloud: => Linkedin: [Andrew Onaulogho](https://www.linkedin.com/in/andrewonaulogho)
 - Cyril Mukabwa :cyclone: :foggy: => Linkedin: [Cyril Mukabwa](https://www.linkedin.com/in/cyril-mukabwa-30a45425a/)
+
+- Daniel Boyce :guitar: :headphones:
