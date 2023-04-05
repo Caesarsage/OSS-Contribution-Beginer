@@ -39,5 +39,5 @@ Add your name ,Twitter handle and Linkedin Below - 💡
 - Uzochukwu Precious => Linkedin: [Uzochukwu Precious](https://linkedin.com/in/uzochukwuprecious)
 - Andrew Onaulogho :skull: :cloud: => Linkedin: [Andrew Onaulogho](https://www.linkedin.com/in/andrewonaulogho)
 - Cyril Mukabwa :cyclone: :foggy: => Linkedin: [Cyril Mukabwa](https://www.linkedin.com/in/cyril-mukabwa-30a45425a/)
-
 - Daniel Boyce :guitar: :headphones:
+- Ignacio Perez :basketball: :computer: => Twitter : [@naachoperez11](https://twitter.com/naachoperez11) & LinkedIn : [Ignacio Perez](https://www.linkedin.com/in/ignacio-perez-4867ab214/)
