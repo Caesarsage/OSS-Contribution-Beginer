@@ -3,7 +3,7 @@
 #
 # Props to https://github.com/wow-actions/welcome
 
-name: Welcome New Users with Thanks and Tip non-stargazers ;-)
+name: Welcome New Users with Thanks ;-)
 on:
   pull_request_target:
     types: [opened, closed]
@@ -32,9 +32,6 @@ jobs:
             Welcome to the OSS first contribution community! 💖
 
             Thanks and congrats 🎉 for opening your first issue here! Be sure to follow the issue template or please update it accordingly.
-
-            📢 If you're using Microcks in your organization, please [add your company name to this list](https://github.com/microcks/.github/blob/main/ADOPTERS.md). 🙏 It really helps the project to gain momentum and credibility. It's a small contribution back to the project with a big impact.
-
             Hope you have a great time there!
 
           FIRST_PR_REACTIONS: '+1, hooray, rocket, heart'
@@ -62,7 +59,7 @@ jobs:
           STAR_MESSAGE: |
             🌟 ~~~~~~~~~ 🌟
 
-            📢 If you like Microcks, please ⭐ star ⭐ our repo to support it!
+            📢 Please ⭐ star ⭐ our repo to support it!
 
             🙏 It really helps the project to gain momentum and credibility. It's a small contribution back to the project with a big impact.
 
