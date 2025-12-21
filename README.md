@@ -42,3 +42,4 @@ Add your name ,Twitter handle and Linkedin Below - 💡
 - Daniel Boyce :guitar: :headphones:
 - Ignacio Perez :basketball: :computer: => Twitter : [@naachoperez11](https://twitter.com/naachoperez11) & LinkedIn : [Ignacio Perez](https://www.linkedin.com/in/ignacio-perez-4867ab214/)
 - Sumit Kumar => X: [@xcricy](https://x.com/xcricy) 👍 ⚔️
+- Vedant Solanki 🚀💻 => Hey this will be my first OS Contribution !! LinkedIn : (https://www.linkedin.com/in/vedantsolanki10/)
